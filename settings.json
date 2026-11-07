@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "afkbot",
-    "password": "",
+    "password": "cwlim@2009",
     "type": "offline"
   },
   "server": {
-    "ip": "",
-    "port": ,
+    "ip": "pvparena.joinmc.world",
+    "port": 15082,
     "version": "26.2",
     "try-creative": false
   },
