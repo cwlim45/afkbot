@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pvparena.joinmc.world",
-    "port": 15082,
+    "ip": "",
+    "port": ,
     "version": "26.2",
     "try-creative": false
   },
